@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.dfe17ef8.chunk.js",
-    "main.js.map": "/static/js/main.dfe17ef8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1b3acae5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1b3acae5.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.f5d09200.chunk.js": "/static/js/2.f5d09200.chunk.js",
-    "static/js/2.f5d09200.chunk.js.map": "/static/js/2.f5d09200.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.36e6e0f9ac36ebce390f0c304db33a61.js": "/precache-manifest.36e6e0f9ac36ebce390f0c304db33a61.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f5d09200.chunk.js.LICENSE.txt": "/static/js/2.f5d09200.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/sebass27/erica-mantaring/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sebass27/erica-mantaring/static/js/main.7c79af64.chunk.js",
+    "main.js.map": "/sebass27/erica-mantaring/static/js/main.7c79af64.chunk.js.map",
+    "runtime-main.js": "/sebass27/erica-mantaring/static/js/runtime-main.3f3fa08f.js",
+    "runtime-main.js.map": "/sebass27/erica-mantaring/static/js/runtime-main.3f3fa08f.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/sebass27/erica-mantaring/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.f5d09200.chunk.js": "/sebass27/erica-mantaring/static/js/2.f5d09200.chunk.js",
+    "static/js/2.f5d09200.chunk.js.map": "/sebass27/erica-mantaring/static/js/2.f5d09200.chunk.js.map",
+    "index.html": "/sebass27/erica-mantaring/index.html",
+    "precache-manifest.954fb02cb3a501890947f539d0fbad8e.js": "/sebass27/erica-mantaring/precache-manifest.954fb02cb3a501890947f539d0fbad8e.js",
+    "service-worker.js": "/sebass27/erica-mantaring/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/sebass27/erica-mantaring/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/sebass27/erica-mantaring/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f5d09200.chunk.js.LICENSE.txt": "/sebass27/erica-mantaring/static/js/2.f5d09200.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sebass27/erica-mantaring/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b3acae5.js",
+    "static/js/runtime-main.3f3fa08f.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.f5d09200.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.dfe17ef8.chunk.js"
+    "static/js/main.7c79af64.chunk.js"
   ]
 }
